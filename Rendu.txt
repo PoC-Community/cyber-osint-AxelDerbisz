@@ -14,3 +14,18 @@ Le grand bâtiment moderne est la « Résidence du Canal » située au 137-145 q
 Le bâtiment en briques rouges se trouve au 127 quai de Valmy.
 
 coords:48.875440, 2.365935 (48°52'31.6"N 2°21'57.4"E).
+
+pour le 3eme:
+
+Intersection of D520 and D2152   that leads to Blois/Tours,
+
+Intersection of D520 and D2157
+
+Turn Left -> D2157 West -> Leads to Le Mans and Chartres.
+
+Turn Left -> leads towards La Chapelle-Saint-Mesmin (via local connectors).
+
+Turn Right -> D2157 East -> Leads straight into Orléans Centre.
+
+
+loc: Saint-Jean-de-la-Ruelle, France (47°54'55.9"N 1°52'49.3"E (Decimal: 47.915525, 1.880360))
