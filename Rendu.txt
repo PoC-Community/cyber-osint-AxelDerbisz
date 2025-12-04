@@ -13,4 +13,4 @@ Le pont est identifié comme étant la « Passerelle des Récollets ».
 Le grand bâtiment moderne est la « Résidence du Canal » située au 137-145 quai de Valmy.
 Le bâtiment en briques rouges se trouve au 127 quai de Valmy.
 
-Traduit avec DeepL.com (version gratuite)
+coords:48.875440, 2.365935 (48°52'31.6"N 2°21'57.4"E).
