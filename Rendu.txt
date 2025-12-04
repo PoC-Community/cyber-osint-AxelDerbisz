@@ -1,0 +1,1 @@
+Pour le premier on extrait la data de l'image ou l'on peut voir "swisslife", les différentes architectures, ensuite on on prend ces data et on querry sur "swiss life tower" ce qui retourne sur tour swiss life located in Lyon, (France)
