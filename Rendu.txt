@@ -29,3 +29,16 @@ Turn Right -> D2157 East -> Leads straight into Orléans Centre.
 
 
 loc: Saint-Jean-de-la-Ruelle, France (47°54'55.9"N 1°52'49.3"E (Decimal: 47.915525, 1.880360))
+
+5eme: pas trouvé d'excat location, j'ai effectué un best guess search sur la fontaine et j'ai eu plusieurs résultats possibles:
+
+52.50459° N, 13.33677° E (germany)
+
+~53.5500° N, 10.0000° E (germany)
+
+~49.2946° N, 8.6429° E (germany)
+
+~49.137° N, 10.072° E (germany)
+
+~52.5160° N, 13.3800° E (germany)
+
